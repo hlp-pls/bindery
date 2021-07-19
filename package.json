@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/evnbr/bindery.git"
+    "url": "git://github.com/hlp-pls/bindery.git"
   },
   "dependencies": {
     "regionize": "^0.1.7"
