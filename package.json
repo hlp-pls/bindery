@@ -12,10 +12,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hlp-pls/bindery.git"
+    "url": "git://github.com/evnbr/bindery.git"
   },
   "dependencies": {
-    "regionize": "^0.1.7"
+    "regionize": "^0.1.7",
+    "bindery": "git://github.com/hlp-pls/bindery.git"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.12.1",
